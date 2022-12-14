@@ -10,5 +10,6 @@ Despite having self-sanitising door handles in the market, most of them are eith
 
 ## Designs
 <img width="422" alt="image" src="https://user-images.githubusercontent.com/84385004/207554898-19e8d95f-ae4b-4f26-ab74-ce6e843c8484.jpg">
-<img width="422" alt="image" src="https://user-images.githubusercontent.com/84385004/207554914-2a24e73e-e6cd-4a84-9e14-5ca4af898480.jpg">
+<img width="422" alt="image" src="https://user-images.githubusercontent.com/84385004/207555882-453144e1-dd62-4236-9fa5-e87e71f63a96.jpg">
+
 
