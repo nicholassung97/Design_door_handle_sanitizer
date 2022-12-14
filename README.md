@@ -17,3 +17,5 @@ Despite having self-sanitising door handles in the market, most of them are eith
 
 https://user-images.githubusercontent.com/84385004/207586288-c606b722-9a41-4646-9e71-eec613757717.mov
 
+## Full Report
+[EID Business Plan.pdf](https://github.com/nicholassung97/Design_door_handle_sanitizer/files/10227436/EID.Business.Plan.pdf)
