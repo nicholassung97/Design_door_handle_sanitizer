@@ -9,5 +9,6 @@ The main advantage of using our product is that its working principle does not r
 Despite having self-sanitising door handles in the market, most of them are either very expensive to set up or require high maintenance even if they are cheap. For example, there is a self- sanitising glowing door handle that uses titanium dioxide as a bacteria-killing mineral. In this system, the door needs to be modified in order to fit in a gearbox that charges the LED in the glass cylinder for the mineral to start working. Although it costs around 13 USD for the entire system, major modifications are needed. Other self-sanitising door handles using silver ions to kill germs also need to be replaced regularly, to replenish the ions at a high cost. On the other hand, our product is an attachment that can be easily fixed onto door handles without reworking original door handles (door levers). It includes a modified nozzle, frame and an external storage tank containing sanitiser which can be attached to the door surface for ease of use. It does notrequire much maintenance as only refills of the sanitiser storage tank are needed.
 
 ## Designs
-![Photo 5-3-20, 11 20 44 AM-1](https://user-images.githubusercontent.com/84385004/207554898-19e8d95f-ae4b-4f26-ab74-ce6e843c8484.jpg)
-![Photo 5-3-20, 11 20 44 AM](https://user-images.githubusercontent.com/84385004/207554914-2a24e73e-e6cd-4a84-9e14-5ca4af898480.jpg)
+<img width="422" alt="image" src="https://user-images.githubusercontent.com/84385004/207554898-19e8d95f-ae4b-4f26-ab74-ce6e843c8484.jpg">
+<img width="422" alt="image" src="https://user-images.githubusercontent.com/84385004/207554914-2a24e73e-e6cd-4a84-9e14-5ca4af898480.jpg">
+
